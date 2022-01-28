@@ -13,6 +13,6 @@
 
 </div>
 
-# <div align="center">Create, train and deploy Machine Learning model using AWS Sagemaker</div>
+# <div align="center">Build, train and deploy Machine Learning model using AWS Sagemaker</div>
 <div align="center"><img src="https://github.com/Pradnya1208/Create-train-and-deploy-ML-model-using-AWS-Sagemaker/blob/main/images/intro.gif?raw=true" width="60%"></div>
 
