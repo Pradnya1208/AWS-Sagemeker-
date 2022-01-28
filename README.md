@@ -29,7 +29,7 @@ In this project, we'll learn how to:
 
 ## AWS S3 bucket:
 Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements.
-<img src="https://github.com/Pradnya1208/Create-train-and-deploy-ML-model-using-AWS-Sagemaker/blob/main/images/s3.PNG?raw=true" width="80%">
+<img src="https://github.com/Pradnya1208/Create-train-and-deploy-ML-model-using-AWS-Sagemaker/blob/main/images/s3.PNG?raw=true">
 
 ## Amazon Sagemaker Studio:
 Amazon SageMaker Studio provides a single, web-based visual interface where you can perform all ML development steps, improving data science team productivity by up to 10x. SageMaker Studio gives you complete access, control, and visibility into each step required to build, train, and deploy models. You can quickly upload data, create new notebooks, train and tune models, move back and forth between steps to adjust experiments, compare results, and deploy models to production all in one place, making you much more productive. All ML development activities including notebooks, experiment management, automatic model creation, debugging, and model and data drift detection can be performed within SageMaker Studio.
